@@ -16,8 +16,8 @@ I would like to visualize various aspects of pizza sales data to gain insights a
 6.Top 5 Best Sellers by Total Pizzas Sold:- Create a bar chart highlighting the top 5 best-selling pizzas based on the total number of pizzas sold. This chart will help us identify the most popular pizza options.
 7.Bottom 5 Worst Sellers by Total Pizzas Sold:- Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the total number of pizzas sold. This chart will enable us to identify underperforming or less popular pizza options.
 
-SOFTWARE USED
-- MS OFFICE/ EXCEL
+  SOFTWARE USED 
+ - MS OFFICE/ EXCEL
 - MS SQL SERVER
 - SQL SERVER MANAGEMENT STUDIO 
 - POWER BI
