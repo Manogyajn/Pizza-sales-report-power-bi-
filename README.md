@@ -6,7 +6,7 @@ KPI's REQUIREMENT = 1. Total Revenue: The sum of the total price of all pizza or
 4. Total Orders: The total number of orders placed.
 5. Average Pizzas Per Order: The average number of pizzas sold per order, calculated by dividing the total number of pizzas sold by the total number of orders.
 
-CHARTS REQUIREMENT
+CHARTS REQUIREMENT =
 I would like to visualize various aspects of pizza sales data to gain insights and understand key trends. I have identified the following requirements for creating charts:
 1.Daily Trend for Total Orders:-Create a bar chart that displays the daily trend of total orders over a specific time period. This chart will help us identify any patterns or fluctuations in order volumes on a daily basis.
 2.Hourly Trend for Total Orders:- Create a line chart that illustrates the hourly trend of total orders throughout the day. This chart will allow us to identify peak hours or periods of high order activity.
